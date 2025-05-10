@@ -1,2 +1,2 @@
 # Calculator
-craeted to calculate mathematical problems
+created to calculate mathematical problems
